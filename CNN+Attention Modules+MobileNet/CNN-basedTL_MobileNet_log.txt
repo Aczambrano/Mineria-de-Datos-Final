@@ -1,0 +1,12 @@
+INFO:root:Training Execution Time:00:19:18
+INFO:root:Evaluation Execution Time: 00:00:06
+INFO:root:test_loss:0.15866786241531372
+INFO:root:test accuracy:0.954639196395874
+INFO:root:Accuracy: 50.93
+INFO:root:F1 score: 34.37
+INFO:root:Precision: 25.94
+INFO:root:Recall: 50.93
+INFO:root:Accuracy: 50.93
+INFO:root:F1 score: 34.37
+INFO:root:Precision: 25.94
+INFO:root:Recall: 50.93
